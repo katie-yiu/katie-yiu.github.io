@@ -135,7 +135,7 @@ p {
     align-items: center;
     justify-content: center;
     min-height: 40vh;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.0),rgba(0, 0, 0, 0.5)),  url(../images/WebsiteBackgroundHeroImage-Circuit.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.0),rgba(0, 0, 0, 0.5));
     background-size: cover;
     background-position: center;
     background-blend-mode: multiply;
